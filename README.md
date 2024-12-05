@@ -78,6 +78,4 @@ Send an image to the server to generate captions:
 - Ensure Python (3.8 or later) and required libraries are installed.
 - If the server doesn’t start, verify that no other process is using port `8000` or change the port in `image_captioning_server.py`.
 
----
 
-This is a straightforward guide to get your project up and running. Copy this into your README file for ease of use.
